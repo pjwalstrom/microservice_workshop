@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for rentaloffer" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="rentaloffer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="rentaloffer" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+  </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+      <option name="myLocal" value="true" />
+      <inspection_tool class="OnDemandImport" enabled="true" level="ERROR" enabled_by_default="true" />
+      <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+        <option name="processCode" value="true" />
+        <option name="processLiterals" value="true" />
+        <option name="processComments" value="true" />
+      </inspection_tool>
+    </profile>
+    <option name="PROJECT_PROFILE" value="Project Default" />
+    <option name="USE_PROJECT_PROFILE" value="true" />
+    <version value="1.0" />
+  </component>
+  <component name="JRebel Project data">
+    <option name="privateKey" value="3082025d02010002818100f0a60d665b6ec3c7a1f43c3b178c962c12894417fd1f54b6463251c6f22c3f9b1a0db5b6aea94e98cf6d607976507ce7ec606167bd7dc7ef295f617e2907ba3532e4cbd542b2bd0027c137f2e780211e27448e8b0f9f1eb11cc95a3894aab9824c18379a4a9cbe3b20f89116ee6baa11a54ba52cb232fb2d474aa9296455a8dd020301000102818100af6a9b81ed4c447214e00fb79366eb609cf26a2c825a80498dc9c84a98e5204853298337f3017f456c8e723097c9fc02a30f6e714c738f760a56789e9a1203ecb1859664f90e42c7d01e13fbe35d3f37e022902f94131df76d860dc6a123fb099b7cf06657de1cfdb2e69a124dc68d1d52072e574072a6a169da0a8d53343b91024100fdea547824219dab9495366887860a380b74ef486f6aaa9cd0a588c215878c6243d900b759980cd11068ba9b4338c8457f3f369662fe9cd97d79a15a858c41d3024100f29fd6c204817f3dd68dcae9c9481ef951684295aa0778b7925a80c6fdce1ee2389cc788e4172a5fb64bfd887762aabb32b14f26722237c3dec2f785511d0c8f024100aa603d33ac52de204e7fdcd540f2a112c02543962024bbbca3881f7ed3c17362505260d7a6878f3a0d3fa8cf1bc9132106e41cb5c651405ff380d4d30fbf703f024039d2b4390b1fddb65c22f0e024d366665eeb6d2b0419c1c06645e1790b560b7038b3ccae284609184476f9d6833565a135a4a24b745a09564a09c739e3a9fbab0240755cf98c5397656216e5f1b3342b983f191fdf313889cfea210f896ecebbd3c58b00305518ef1d0fe8d73ed0cf250193aca26e38f1c72ffdae92d3077b402194" />
+    <option name="publicKey" value="30818902818100f0a60d665b6ec3c7a1f43c3b178c962c12894417fd1f54b6463251c6f22c3f9b1a0db5b6aea94e98cf6d607976507ce7ec606167bd7dc7ef295f617e2907ba3532e4cbd542b2bd0027c137f2e780211e27448e8b0f9f1eb11cc95a3894aab9824c18379a4a9cbe3b20f89116ee6baa11a54ba52cb232fb2d474aa9296455a8dd0203010001" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rentaloffer.iml" filepath="$PROJECT_DIR$/rentaloffer.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="Maven: com.google.code.gson:gson:2.2.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.2/gson-2.2.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.2/gson-2.2.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.rabbitmq:amqp-client:2.8.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/2.8.2/amqp-client-2.8.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/2.8.2/amqp-client-2.8.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/2.8.2/amqp-client-2.8.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: junit:junit:4.11">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.hamcrest:hamcrest-core:1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.mockito:mockito-all:1.9.5">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.slf4j:slf4j-api:1.6.6">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.slf4j:slf4j-simple:1.6.6">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/1.6.6/slf4j-simple-1.6.6.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/1.6.6/slf4j-simple-1.6.6-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/1.6.6/slf4j-simple-1.6.6-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000002" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
